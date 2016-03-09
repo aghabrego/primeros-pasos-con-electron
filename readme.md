@@ -6,6 +6,9 @@
 ## Descargar proyecto
 git clone git@gitlab.com:anonymoussociety-team/proyecto-electron.git
 
+## entrar a la carpeta
+cd proyecto-electron
+
 ## Descargar Electron [![más informacion]](https://github.com/atom/electron)
 # Install 
 npm install
