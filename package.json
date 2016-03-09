@@ -1,0 +1,14 @@
+{
+  "name": "creando-apliacion-con-electron",
+  "version": "1.0.0",
+  "description": "Mi primera aplicacion",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Angel Hidalgo",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.9"
+  }
+}
