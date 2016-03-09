@@ -3,6 +3,9 @@
 
 ## Descripción de instalación y correr aplicación.
 
+## Descargar proyecto
+git clone git@gitlab.com:anonymoussociety-team/proyecto-electron.git
+
 ## Descargar Electron [![más informacion]](https://github.com/atom/electron)
 # Install 
 npm install
