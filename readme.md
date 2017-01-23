@@ -4,7 +4,7 @@
 ## Descripción de instalación y correr aplicación.
 
 ## Descargar proyecto
-git clone git@gitlab.com:anonymoussociety-team/proyecto-electron.git
+git clone git@github.com:criptoy13/primeros-pasos-con-electron.git
 
 ## entrar a la carpeta
 cd proyecto-electron
